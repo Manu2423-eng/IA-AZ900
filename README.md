@@ -2,7 +2,8 @@
 
 # Mi repositorio de prueba 
 
-## **Computo en la nube:** Es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet. 
+## Computo en la nube: 
+    Es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet. 
 
 ## **Inteligencia artificial:** Es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano.
 
